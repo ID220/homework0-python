@@ -1,6 +1,6 @@
 # Homework 0 - Basic Python
 
-Write a python script that requests the user to input a number of cups. Then your script should distribute these cups to have the fewest number of _containers_. These containers have four different sizes: _gallon_, _quart_, _pint_, and _cup_ size. Here how they related to each other
+Write a python program that requests the user to input a number of cups. Then your script should distribute these cups to have the fewest number of _containers_. These containers have four different sizes: _gallon_, _quart_, _pint_, and _cup_ size. Here how they related to each other
 
 ```
 1 pint = 2 cups
