@@ -18,6 +18,15 @@ If the user has entered 9 as the number of cups. We would print:
 
 Please **note** that the **s** for the plural is removed when there is only 1 unit.
 
+## Additional requirements
+
+- The program should ask for an integer number and, if zero or positive, it should print the result. It should then prompt **again** a request for a new input number.
+- If the user inputs a negative number, the program should halt.
+
+<p align="center">
+<img src="data/flowchart.png" width="500" />
+</p>
+
 ## Grading and Submission
 
 1. The purpose of this homework is for **YOU** to determine whether you have sufficient prerequisites to take this class.
