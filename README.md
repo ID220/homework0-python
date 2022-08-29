@@ -1,6 +1,6 @@
 # Homework 0: Basic Python
 
-Write a python program that requests the user to input a number of cups. Then your script should distribute these cups to have the fewest number of _containers_. These containers have four different sizes: _gallon_, _quart_, _pint_, and _cup_ size. Here how they related to each other
+Write a python program that requests the user to input a number of cups. Then your code should distribute these cups to have the fewest number of _containers_. These containers have four different sizes: _gallon_, _quart_, _pint_, and _cup_ size. Here how they related to each other
 
 ```
 1 pint = 2 cups
@@ -8,7 +8,7 @@ Write a python program that requests the user to input a number of cups. Then yo
 1 gallon = 4 quart
 ```
 
-Your code should therefore ask for a number of cups and print the result for each of the containers in the format `XX gallons, XX quarts, XX pints, XX cups` where `XX` are integer quantities.
+Your code should therefore ask for a number of cups and print the result for each of the containers in the format **XX gallons, XX quarts, XX pints, XX cups** where `XX` are integer quantities.
 
 ## Example:
 
@@ -16,7 +16,7 @@ If the user has entered 9 as the number of cups. We would print:
 
 `0 gallons, 2 quarts, 0 pints, 1 cup`
 
-Please **note** that the `s` for the plural is removed when there is only 1 unit.
+Please **note** that the **s** for the plural is removed when there is only 1 unit.
 
 ## Grading and Submission
 
